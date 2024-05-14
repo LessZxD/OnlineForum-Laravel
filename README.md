@@ -34,6 +34,7 @@ Profile Pages: Users have profile pages displaying their questions, answers, and
 Contribution Score: Points system for activities like asking questions, answering, and upvotes received.
 
 Implementation Steps
+
 Setup Laravel Project
 Install Laravel via Composer.
 Set up the database configuration.
