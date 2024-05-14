@@ -36,31 +36,29 @@ Contribution Score: Points system for activities like asking questions, answerin
 Implementation Steps
 
 Setup Laravel Project
-Install Laravel via Composer.
-Set up the database configuration.
-User Authentication
-Implement user registration, login, and password reset features.
-Use Laravel's built-in email verification to ensure users verify their email addresses before accessing the platform.
-User Roles and Permissions
-Install and configure spatie/laravel-permission.
-Create roles for normal users, premium users, and certified experts.
-Subscription System
-Question and Answer Functionality
-Create controllers, models, and views for questions and answers.
-Implement the logic for posting, viewing, and answering questions.
-Premium Features
-Develop the system to flag premium questions for certified experts.
-Ensure premium users have access to premium features.
-Admin Panel
-Set up Laravel Nova or Voyager for admin functionality.
-Implement content management and user management features.
-Notifications
-Use Laravel's notification system to send emails and in-app notifications.
-Create notification events for relevant actions.
-Develop user profile pages.
-Implement a points system for user activities.
-Testing and Deployment
-Write unit and feature tests.
+Install Laravel via Composer->
+Set up the database configuration->
+User Authentication->
+Implement user registration, login, and password reset features->
+Use Laravel's built-in email verification to ensure users verify their email addresses before accessing the platform->
+User Roles and Permissions->
+Install and configure spatie/laravel-permission->
+Create roles for normal users, premium users, and certified experts->
+Subscription System->
+Question and Answer Functionality->
+Create controllers, models, and views for questions and answers->
+Implement the logic for posting, viewing, and answering questions->
+Premium Features->
+Develop the system to flag premium questions for certified experts->
+Ensure premium users have access to premium features->
+Set up Laravel Nova or Voyager for admin functionality->
+Implement content management and user management features->
+Use Laravel's notification system to send emails and in-app notifications->
+Create notification events for relevant actions->
+Develop user profile pages->
+Implement a points system for user activities->
+Testing and Deployment->
+Write unit and feature tests->
 Deploy the application to a production environment.
 
 This detailed description outlines the core functionality and steps required to create an online forum with premium and normal features using Laravel. Adjustments can be made based on specific project requirements and user feedback.
