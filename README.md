@@ -61,7 +61,7 @@ Testing and Deployment->
 Write unit and feature tests->
 Deploy the application to a production environment.
 
-This detailed description outlines the core functionality and steps required to create an online forum with premium and normal features using Laravel. Adjustments can be made based on specific project requirements and user feedback.
+This detailed description outlines the core functionality and steps required to create an online forum with premium and normal features using Laravel. 
 
 
 
